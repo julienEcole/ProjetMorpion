@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/09 10:35:34.000.336,=C:\jujuEcole\projetC++\Project1PCH1.h</Transaction>
+    <Transaction>2021/04/09 10:35:34.000.585,=C:\jujuEcole\projetC++\File1.cpp</Transaction>
+    <Transaction>2021/04/09 10:37:45.000.236,C:\jujuEcole\louisArmand\informatiqueEtReseau\ModulesC++\morpion\main.cpp=C:\jujuEcole\projetC++\File1.cpp</Transaction>
+    <Transaction>2021/04/09 10:37:53.000.181,C:\jujuEcole\louisArmand\informatiqueEtReseau\ModulesC++\morpion\ProjetMorpion.h=C:\jujuEcole\projetC++\Project1PCH1.h</Transaction>
+    <Transaction>2021/04/09 10:38:00.000.322,C:\jujuEcole\louisArmand\informatiqueEtReseau\ModulesC++\morpion\ProjetMorpion.cbproj=C:\jujuEcole\projetC++\Project1.cbproj</Transaction>
+    <Transaction>2021/04/09 10:58:07.000.264,=C:\jujuEcole\louisArmand\informatiqueEtReseau\ModulesC++\morpion\librairieCreer\Morpion.h</Transaction>
+    <Transaction>2021/04/09 10:58:07.000.258,=C:\jujuEcole\louisArmand\informatiqueEtReseau\ModulesC++\morpion\librairieCreer\morpion.cpp</Transaction>
+    <Transaction>2021/04/11 11:06:09.204,=C:\jujuEcole\louisArmand\informatiqueEtReseau\ModulesC++\morpion\CodeBlock\SNImage.h</Transaction>
+    <Transaction>2021/04/11 11:06:09.242,=C:\jujuEcole\louisArmand\informatiqueEtReseau\ModulesC++\morpion\CodeBlock\SNImage.o</Transaction>
+    <Transaction>2021/04/11 11:06:42.476,C:\jujuEcole\louisArmand\informatiqueEtReseau\ModulesC++\morpion\CodeBlock\SNImage.h=</Transaction>
+    <Transaction>2021/04/11 11:06:42.549,C:\jujuEcole\louisArmand\informatiqueEtReseau\ModulesC++\morpion\CodeBlock\SNImage.o=</Transaction>
+    <Transaction>2021/04/11 11:09:09.723,=C:\jujuEcole\louisArmand\informatiqueEtReseau\ModulesC++\morpion\Win32\Debug\SNImage.o</Transaction>
+    <Transaction>2021/04/11 11:09:16.419,=C:\jujuEcole\louisArmand\informatiqueEtReseau\ModulesC++\morpion\SNImage.h</Transaction>
+    <Transaction>2021/04/11 11:20:29.352,=C:\jujuEcole\louisArmand\informatiqueEtReseau\ModulesC++\morpion\Win32\Debug\feuilleMorpion.bmp</Transaction>
+  </Transactions>
+</BorlandProject>
